@@ -1,0 +1,7 @@
+export const HOME_ROUTE = '/'
+export const ADMIN_ROUTE = '/admin'
+export const ITEM_CARD_ROUTE = '/card'
+export const LOGIN_ROUTE = '/auth'
+export const REGISTRATION_ROUTE = '/auth'
+export const FAVORITE_ROUTE = '/favorite'
+export const REDIRECT = '*'
